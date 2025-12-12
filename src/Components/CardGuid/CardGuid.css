@@ -38,6 +38,7 @@
 
 .cards__item {
   list-style: none;
+  margin: 20 px;
   width: 300px;
 }
 
@@ -70,3 +71,4 @@
     width: 90%;
   }
 }
+
